@@ -1,13 +1,13 @@
 PODS:
-  - RxCocoa (6.0.0):
-    - RxRelay (= 6.0.0)
-    - RxSwift (= 6.0.0)
-  - RxRelay (6.0.0):
-    - RxSwift (= 6.0.0)
-  - RxSwift (6.0.0)
-  - RxSwiftUtilities (3.0.0):
-    - RxCocoa (~> 6.0)
-    - RxSwift (~> 6.0)
+  - RxCocoa (6.9.0):
+    - RxRelay (= 6.9.0)
+    - RxSwift (= 6.9.0)
+  - RxRelay (6.9.0):
+    - RxSwift (= 6.9.0)
+  - RxSwift (6.9.0)
+  - RxSwiftUtilities (6.9.0):
+    - RxCocoa (~> 6.9)
+    - RxSwift (~> 6.9)
 
 DEPENDENCIES:
   - RxSwiftUtilities (from `../`)
